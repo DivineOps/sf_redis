@@ -1,0 +1,1 @@
+C:\Users\sasrose\source\repos\RedisCluster\RedisCluster\obj\x64\Debug\RedisCluster.sfproj.CoreCompileInputs.cache
